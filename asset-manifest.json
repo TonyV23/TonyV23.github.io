@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0053d88c.css",
+    "main.js": "/static/js/main.cf9c364d.js",
+    "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
+    "static/media/viper23_profil.jpg": "/static/media/viper23_profil.726fcd033863531ef982.jpg",
+    "static/media/map.jpg": "/static/media/map.3e5949c9b6f7cd03bd31.jpg",
+    "index.html": "/index.html",
+    "static/media/shape.svg": "/static/media/shape.304b3ad310f9f544faf4.svg",
+    "main.0053d88c.css.map": "/static/css/main.0053d88c.css.map",
+    "main.cf9c364d.js.map": "/static/js/main.cf9c364d.js.map",
+    "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0053d88c.css",
+    "static/js/main.cf9c364d.js"
+  ]
+}
